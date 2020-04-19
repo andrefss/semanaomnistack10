@@ -1,0 +1,11 @@
+//Metodos HTTP: GET, POST, PUT, DELETE
+
+//Tipos de parametros
+
+//Query Params: request.query (Filtros, ordenação, paginação, ...)
+//Route Params: resquest.params (Indentificar um recurso na alteração o remoção)
+//Body: request.body (Dados para criação ou alteração de um registro)
+
+//MongoDB (Não-Relacional)
+
+mongodb+srv://admin:admin@servidor-mu6s9.gcp.mongodb.net/admin
